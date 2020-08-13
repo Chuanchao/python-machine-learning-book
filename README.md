@@ -3,11 +3,20 @@
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/python-machine-learning-reader-discussion-board)
 
+---
+
+#### IMPORTANT NOTE (09/21/2017):
+
+This GitHub repository contains the code examples of the **1st Edition** of Python Machine Learning book. If you are looking for the code examples of the **2nd Edition**, please refer to [this](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition) repository instead. 
+
+---
 
 What you can expect are 400 pages rich in useful material just about everything you need to know to get started with machine learning ... from theory to the actual code that you can directly put into action! This is not yet just another "this is how scikit-learn works" book. I aim to explain all the underlying concepts, tell you everything you need to know in terms of best practices and caveats, and
 we will put those concepts into action mainly using NumPy, scikit-learn, and Theano.
 
 You are not sure if this book is for you? Please checkout the excerpts from the [Foreword](./docs/foreword_ro.pdf) and [Preface](./docs/preface_sr.pdf), or take a look at the [FAQ](#faq) section for further information.
+
+
 
 ---
 
@@ -30,9 +39,10 @@ Kindle ASIN: B00YSILNL0<br>
 German ISBN-13: 978-3958454224<br>
 Japanese ISBN-13: 978-4844380603<br>
 Italian ISBN-13: 978-8850333974<br>
-Chinese ISBN-13: 978-9864341405<br>
+Chinese (traditional) ISBN-13: 978-9864341405<br>
+Chinese (mainland) ISBN-13: 978-7111558804<br>
 Korean ISBN-13: 979-1187497035<br>
-Russianan ISBN-13: 978-5970604090<br>
+Russian ISBN-13: 978-5970604090<br>
 
 
 
@@ -167,7 +177,10 @@ If you need help to decide whether this book is for you, check out some of the "
 - [Italian translation](https://www.amazon.it/learning-Costruire-algoritmi-generare-conoscenza/dp/8850333978/) via "Apogeo"
 - [German translation](https://www.amazon.de/Machine-Learning-Python-mitp-Professional/dp/3958454224/) via "mitp Verlag"
 - [Japanese translation](http://www.amazon.co.jp/gp/product/4844380605/) via "Impress Top Gear"
-- [Chinese translation](https://taiwan.kinokuniya.com/bw/9789864341405)
+- [Chinese translation (traditional Chinese)](https://taiwan.kinokuniya.com/bw/9789864341405)
+- [Chinese translation (simple Chinese)](https://book.douban.com/subject/27000110/)
+- [Korean translation](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791187497035) via "Kyobo"
+- [Polish translation](https://www.amazon.de/Python-Uczenie-maszynowe-Sebastian-Raschka/dp/8328336138/ref=sr_1_11?ie=UTF8&qid=1513601461&sr=8-11&keywords=sebastian+raschka) via "Helion"
 
 ---
 
@@ -228,8 +241,10 @@ I have set up a separate library, [`mlxtend`](http://rasbt.github.io/mlxtend/), 
 [![](./images/pymle-cover_de.jpg)](https://www.amazon.de/Machine-Learning-Python-mitp-Professional/dp/3958454224/)
 [![](./images/pymle-cover_jp.jpg)](http://www.amazon.co.jp/gp/product/4844380605/)
 [![](./images/pymle-cover_cn.jpg)](https://taiwan.kinokuniya.com/bw/9789864341405)
+[![](./images/pymle-cover_cn_mainland.jpg)](https://book.douban.com/subject/27000110/)
 [![](./images/pymle-cover_kr.jpg)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187497035&orderClick=LEA&Kc=)
 [![](./images/pymle-cover_ru.jpg)](http://www.ozon.ru/context/detail/id/140152222/)
+[![](./images/pymle-cover_pl.jpg)](https://www.amazon.de/Python-Uczenie-maszynowe-Sebastian-Raschka/dp/8328336138/ref=sr_1_11?ie=UTF8&qid=1513601461&sr=8-11&keywords=sebastian+raschka)
 
 <hr>
 
